@@ -1,0 +1,193 @@
+@font-face {
+    font-family: inter;
+    src: url(fonts/Inter/static/Inter-Regular.ttf);
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.srch {
+    padding-left: 114px;
+    padding-top: 38px;
+    font-size: 25px;
+    font-family: inter;
+    font-weight: 800;
+}
+
+.table1{
+    margin-left: 114px;
+    border-collapse: collapse;
+    border: none;
+}
+
+.input_id{
+    margin-top: 28px;
+    text-align: left;
+    font-size: 15px;
+    font-family: inter;
+    border-radius: 10px;
+}
+
+.input_button{
+    background-color: #FFD43A;
+    width: 115px;
+    height: 45px;
+    border: none;
+    border-radius: 10px;
+     font-family: inter;
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.border_none{
+    border: none;
+}
+
+.title1{
+    font-size: 15px;
+    font-family: inter;
+    text-align: left;
+    border-radius: 10px;
+}
+
+.input{
+    border: 1px #E0E0E0 solid;
+    margin-right: 19px;
+    padding: 0;
+    border-radius: 10px;
+
+}
+
+.input_ID{
+
+    width: 201px;
+    height: 45px;
+}
+
+.input_title{
+    width: 593px;
+    height: 45px;
+}
+
+.input_created{
+    width: 201px;
+    height: 45px;
+}
+
+.th_action{
+    font-family: inter;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.nwstbl{
+    margin-left: 114px;
+    margin-top: 66px;
+    margin-bottom: 23px;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.table2{
+    border: 1px solid #DADADA;
+    border-collapse: collapse;
+    margin-left: 114px;
+    margin-top:23px;
+}
+
+td, tr, th{
+    border: 1px solid #DADADA;
+}
+
+.id2{
+    padding: 21px 27px 14px 29px ;
+    font-family: inter;
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.created1{
+    text-align: left;
+    margin-bottom: 3px;
+    font-family: inter;
+    font-size: 15px;
+
+}
+
+.title2{
+    padding: 21px 372px 14px 23px ;
+    text-align: left;
+    font-size: 15px;
+    font-family: inter;
+    font-weight: 800;
+}
+
+.created2{
+    padding:21px 70px 14px 97px;
+    font-family: inter;
+    font-size: 15px;
+    font-weight: 800;
+    font-weight: 800;
+}
+
+.Action2{
+    padding: 24px 54px 11px 67px ;
+    font-size: 15px;
+    font-family: inter;
+    font-weight: 800;
+}
+
+.id{
+    padding: 19px 31px 16px 32px;
+    font-size: 15px;
+    font-family: inter;
+    font-weight: 800;
+}
+
+.text{
+    padding: 11px 20px 24px 23px;
+    font-size: 15px;
+    font-family: inter;
+    font-weight: 800;
+}
+
+.date{
+    padding: 17px 93px 18px 97px;
+    font-size: 15px;
+    font-family: inter;
+    font-weight: 800;
+}
+
+.edit{
+    padding: 10px 40px 11px 35px;
+}
+
+.date{
+    color: #FF0000;
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.button1{
+    width: 115px;
+    height: 36px;
+    background-color: #FFD43A;
+    border: none;
+    font-family: inter;
+    font-size: 15px;
+    font-weight: 800;
+}
+
+.button2{
+    width: 115px;
+    height: 36px;
+    background-color: #FF0000;
+    border: none;
+    font-family: inter;
+    font-size: 15px;
+    font-weight: 800;
+}
+
